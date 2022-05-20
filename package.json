@@ -1,0 +1,19 @@
+{
+  "name": "primeiroprojeto",
+  "version": "1.0.0",
+  "description": "Bem vindo ao meu primeiro projeto de integração de dados ============================================================= Autora: Laila Lúcio Felisbino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lailalf/primeiroprojeto-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lailalf/primeiroprojeto-/issues"
+  },
+  "homepage": "https://github.com/lailalf/primeiroprojeto-#readme"
+}
